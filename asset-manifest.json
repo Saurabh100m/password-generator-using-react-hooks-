@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/password-generator-using-react-hooks/static/css/main.4521f021.css",
-    "main.js": "/password-generator-using-react-hooks/static/js/main.1b168ba7.js",
-    "index.html": "/password-generator-using-react-hooks/index.html",
-    "main.4521f021.css.map": "/password-generator-using-react-hooks/static/css/main.4521f021.css.map",
-    "main.1b168ba7.js.map": "/password-generator-using-react-hooks/static/js/main.1b168ba7.js.map"
+    "main.css": "/password-generator-using-react-hooks-/static/css/main.4521f021.css",
+    "main.js": "/password-generator-using-react-hooks-/static/js/main.1b168ba7.js",
+    "index.html": "/password-generator-using-react-hooks-/index.html",
+    "main.4521f021.css.map": "/password-generator-using-react-hooks-/static/css/main.4521f021.css.map",
+    "main.1b168ba7.js.map": "/password-generator-using-react-hooks-/static/js/main.1b168ba7.js.map"
   },
   "entrypoints": [
     "static/css/main.4521f021.css",
